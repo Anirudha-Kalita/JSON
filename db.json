@@ -1,0 +1,7240 @@
+[{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168b5"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Automatic operation signal",
+  "Dz_axisMasterId": "25861",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "SigOP_path1",
+  "SignalName_1": "SigOP",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168b6"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Cycle start lamp signal",
+  "Dz_axisMasterId": "25862",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "SigSTL_path1",
+  "SignalName_1": "SigSTL",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168b7"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Feed hold lamp signal",
+  "Dz_axisMasterId": "25863",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "SigSPL_path1",
+  "SignalName_1": "SigSPL",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168b8"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Alarm signal",
+  "Dz_axisMasterId": "6834",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "SigAL_path1",
+  "SignalName_1": "SigAL",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168b9"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Emergency stop signal",
+  "Dz_axisMasterId": "6835",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "EMG_path1",
+  "SignalName_1": "EMG",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168ba"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Mode",
+  "Dz_axisMasterId": "6836",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "Mode_path1",
+  "SignalName_1": "Mode",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168bb"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Main program",
+  "Dz_axisMasterId": "6837",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "MainProgram_path1",
+  "SignalName_1": "MainProgram",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168bc"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Executing program",
+  "Dz_axisMasterId": "6838",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "ActProgram_path1",
+  "SignalName_1": "ActProgram",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168bd"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Sequence number",
+  "Dz_axisMasterId": "6839",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "Sequence_path1",
+  "SignalName_1": "Sequence",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168be"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Program comment (main program)",
+  "Dz_axisMasterId": "6840",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "MainComment_path1",
+  "SignalName_1": "MainComment",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168bf"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Program comment (executing program)",
+  "Dz_axisMasterId": "6841",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "ActComment_path1",
+  "SignalName_1": "ActComment",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168c0"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Speed S [actual]",
+  "Dz_axisMasterId": "6842",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "ActS_path1",
+  "SignalName_1": "ActS",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168c1"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Feed rate F [actual]",
+  "Dz_axisMasterId": "6843",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "ActF_path1",
+  "SignalName_1": "ActF",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168c2"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Feed rate F [actual]",
+  "Dz_axisMasterId": "6844",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "ActFdec_path1",
+  "SignalName_1": "ActFdec",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168c3"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Speed S [command]",
+  "Dz_axisMasterId": "6845",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "ModalS_path1",
+  "SignalName_1": "ModalS",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168c4"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Feed rate F [command]",
+  "Dz_axisMasterId": "6846",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "ModalF_path1",
+  "SignalName_1": "ModalF",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168c5"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "T code",
+  "Dz_axisMasterId": "6847",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "Modal",
+  "SignalName": "ModalT_path1",
+  "SignalName_1": "ModalT",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168c6"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "1st M code",
+  "Dz_axisMasterId": "6848",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "ModalM_path1",
+  "SignalName_1": "ModalM",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168c7"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "2nd M code",
+  "Dz_axisMasterId": "6849",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "ModalM2_path1",
+  "SignalName_1": "ModalM2",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168c8"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "3rd M code",
+  "Dz_axisMasterId": "6850",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "ModalM3_path1",
+  "SignalName_1": "ModalM3",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168c9"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "The number of machined parts",
+  "Dz_axisMasterId": "6851",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "PartsNum_path1",
+  "SignalName_1": "PartsNum",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168ca"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "The total number of machined parts",
+  "Dz_axisMasterId": "6852",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "PartsNumAll_path1",
+  "SignalName_1": "PartsNumAll",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168cb"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Power-on period",
+  "Dz_axisMasterId": "6853",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "PowOnTime_path1",
+  "SignalName_1": "PowOnTime",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168cc"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Operation time",
+  "Dz_axisMasterId": "6854",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "RunTime_path1",
+  "SignalName_1": "RunTime",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168cd"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Cutting time",
+  "Dz_axisMasterId": "6855",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "CutTime_path1",
+  "SignalName_1": "CutTime",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168ce"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Cutting feed signal",
+  "Dz_axisMasterId": "6856",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "SigCUT_path1",
+  "SignalName_1": "SigCUT",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168cf"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Single block check signal",
+  "Dz_axisMasterId": "6857",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "SigSBK_path1",
+  "SignalName_1": "SigSBK",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168d0"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Decode M00 signal",
+  "Dz_axisMasterId": "6858",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "SigDM00_path1",
+  "SignalName_1": "SigDM00",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168d1"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Decode M01 signal",
+  "Dz_axisMasterId": "6859",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "SigDM01_path1",
+  "SignalName_1": "SigDM01",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168d2"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Dry run check signal",
+  "Dz_axisMasterId": "6860",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "SigMDRN_path1",
+  "SignalName_1": "SigMDRN",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168d3"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Cutting feed speed override",
+  "Dz_axisMasterId": "6861",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "Override_path1",
+  "SignalName_1": "Override",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168d4"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "CNC State",
+  "Dz_axisMasterId": "6862",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "CncState_path1",
+  "SignalName_1": "CncState",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168d5"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Warning information",
+  "Dz_axisMasterId": "6863",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "CncWarning_path1",
+  "SignalName_1": "CncWarning",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168d6"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "FAN1 speed #CNC",
+  "Dz_axisMasterId": "6864",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "22000",
+  "MaxWarning": "20000",
+  "MinWarning": "10",
+  "NotificationSendTo": "anirudha.kalita44@hotmail.com",
+  "PathName": "null",
+  "SignalName": "CncFan1Speed_path1",
+  "SignalName_1": "CncFan1Speed",
+  "SystemAlarm": "Yes",
+  "Unit": "mm",
+  "UnitValue": "100000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168d7"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "FAN2 speed #CNC",
+  "Dz_axisMasterId": "6865",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@hotmail.com",
+  "PathName": "null",
+  "SignalName": "CncFan2Speed_path1",
+  "SignalName_1": "CncFan2Speed",
+  "SystemAlarm": "Yes",
+  "Unit": "mm",
+  "UnitValue": "100000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168d8"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "FAN3 speed #CNC",
+  "Dz_axisMasterId": "6866",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "CncFan3Speed_path1",
+  "SignalName_1": "CncFan3Speed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168d9"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "FAN4 speed #CNC",
+  "Dz_axisMasterId": "6867",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "CncFan4Speed_path1",
+  "SignalName_1": "CncFan4Speed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168da"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "FAN1 status #CNC",
+  "Dz_axisMasterId": "6868",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "CncFan1Status_path1",
+  "SignalName_1": "CncFan1Status",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168db"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "FAN2 status #CNC",
+  "Dz_axisMasterId": "6869",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "CncFan2Status_path1",
+  "SignalName_1": "CncFan2Status",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168dc"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "FAN3 status #CNC",
+  "Dz_axisMasterId": "6870",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "CncFan3Status_path1",
+  "SignalName_1": "CncFan3Status",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168dd"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "FAN4 status #CNC",
+  "Dz_axisMasterId": "6871",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "CncFan4Status_path1",
+  "SignalName_1": "CncFan4Status",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168de"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "In-position signals",
+  "Dz_axisMasterId": "6872",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SigINP_0_path1",
+  "SignalName_1": "SigINP",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168df"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Speed of servo motor",
+  "Dz_axisMasterId": "6873",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoSpeed_0_path1",
+  "SignalName_1": "ServoSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168e0"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Servo load current(%)",
+  "Dz_axisMasterId": "6874",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrentPer_0_path1",
+  "SignalName_1": "ServoCurrentPer",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168e1"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Servo load current(A)",
+  "Dz_axisMasterId": "6875",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrent_0_path1",
+  "SignalName_1": "ServoCurrent",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168e2"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Servo load",
+  "Dz_axisMasterId": "6876",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "150",
+  "MaxWarning": "120",
+  "MinWarning": "0",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoLoad_0_path1",
+  "SignalName_1": "ServoLoad",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168e3"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Deviation value of servo position",
+  "Dz_axisMasterId": "6877",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoError_0_path1",
+  "SignalName_1": "ServoError",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168e4"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Absolute position",
+  "Dz_axisMasterId": "6878",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "120000",
+  "MaxWarning": "100000",
+  "MinWarning": "90000",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "AbsPos_0_path1",
+  "SignalName_1": "AbsPos",
+  "SystemAlarm": "Yes",
+  "Unit": "kms",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168e5"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Relative position",
+  "Dz_axisMasterId": "6879",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RelPos_0_path1",
+  "SignalName_1": "RelPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168e6"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Machine position",
+  "Dz_axisMasterId": "6880",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "McnPos_0_path1",
+  "SignalName_1": "McnPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168e7"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Battery low #CNC",
+  "Dz_axisMasterId": "6881",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "CncBatLow_0_path1",
+  "SignalName_1": "CncBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168e8"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Battery zero #APC",
+  "Dz_axisMasterId": "6882",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatZero_0_path1",
+  "SignalName_1": "ApcBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168e9"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Battery low #APC",
+  "Dz_axisMasterId": "6883",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatLow_0_path1",
+  "SignalName_1": "ApcBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168ea"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Battery zero #Inductosyn",
+  "Dz_axisMasterId": "6884",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "IndBatZero_0_path1",
+  "SignalName_1": "IndBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168eb"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Battery zero #Separate detector",
+  "Dz_axisMasterId": "6885",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpdBatZero_0_path1",
+  "SignalName_1": "SpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168ec"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Battery zero #Serial separate detector",
+  "Dz_axisMasterId": "6886",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SSpdBatZero_0_path1",
+  "SignalName_1": "SSpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168ed"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Temp #SVM",
+  "Dz_axisMasterId": "6887",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "0",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoTemp_0_path1",
+  "SignalName_1": "ServoTemp",
+  "SystemAlarm": "Yes",
+  "Unit": "Deg C",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168ee"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Temp #APC",
+  "Dz_axisMasterId": "6888",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "75",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "PulseCoderTemp_0_path1",
+  "SignalName_1": "PulseCoderTemp",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168ef"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Insulation data #SVM",
+  "Dz_axisMasterId": "6889",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "50",
+  "MaxWarning": "70",
+  "MinWarning": "70",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoLeakResistData_0_path1",
+  "SignalName_1": "ServoLeakResistData",
+  "SystemAlarm": "Yes",
+  "Unit": "M-Ohm",
+  "UnitValue": "M-Ohm"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168f0"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN1 speed #SVA",
+  "Dz_axisMasterId": "6890",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpSpeed_0_path1",
+  "SignalName_1": "InFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168f1"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN2 speed #SVA",
+  "Dz_axisMasterId": "6891",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpSpeed_0_path1",
+  "SignalName_1": "InFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168f2"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN1 status #SVA",
+  "Dz_axisMasterId": "6892",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpStatus_0_path1",
+  "SignalName_1": "InFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168f3"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN2 status #SVA",
+  "Dz_axisMasterId": "6893",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpStatus_0_path1",
+  "SignalName_1": "InFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168f4"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN1 speed #SVA",
+  "Dz_axisMasterId": "6894",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpSpeed_0_path1",
+  "SignalName_1": "RadFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168f5"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN2 speed #SVA",
+  "Dz_axisMasterId": "6895",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpSpeed_0_path1",
+  "SignalName_1": "RadFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168f6"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN1 status #SVA",
+  "Dz_axisMasterId": "6896",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpStatus_0_path1",
+  "SignalName_1": "RadFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168f7"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN2 status #SVA",
+  "Dz_axisMasterId": "6897",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpStatus_0_path1",
+  "SignalName_1": "RadFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168f8"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "6898",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwSpeed_0_path1",
+  "SignalName_1": "InFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168f9"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "6899",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwSpeed_0_path1",
+  "SignalName_1": "InFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168fa"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "6900",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwStatus_0_path1",
+  "SignalName_1": "InFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168fb"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "6901",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwStatus_0_path1",
+  "SignalName_1": "InFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168fc"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "6902",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwSpeed_0_path1",
+  "SignalName_1": "RadFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168fd"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "6903",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwSpeed_0_path1",
+  "SignalName_1": "RadFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168fe"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "6904",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwStatus_0_path1",
+  "SignalName_1": "RadFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f168ff"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "6905",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwStatus_0_path1",
+  "SignalName_1": "RadFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16900"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "In-position signals",
+  "Dz_axisMasterId": "6906",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SigINP_1_path1",
+  "SignalName_1": "SigINP",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16901"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Speed of servo motor",
+  "Dz_axisMasterId": "6907",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoSpeed_1_path1",
+  "SignalName_1": "ServoSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16902"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Servo load current(%)",
+  "Dz_axisMasterId": "6908",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrentPer_1_path1",
+  "SignalName_1": "ServoCurrentPer",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16903"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Servo load current(A)",
+  "Dz_axisMasterId": "6909",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrent_1_path1",
+  "SignalName_1": "ServoCurrent",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16904"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Servo load",
+  "Dz_axisMasterId": "6910",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "150",
+  "MaxWarning": "120",
+  "MinWarning": "0",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoLoad_1_path1",
+  "SignalName_1": "ServoLoad",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16905"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Deviation value of servo position",
+  "Dz_axisMasterId": "6911",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoError_1_path1",
+  "SignalName_1": "ServoError",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16906"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Absolute position",
+  "Dz_axisMasterId": "6912",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "120000",
+  "MaxWarning": "100000",
+  "MinWarning": "90000",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "AbsPos_1_path1",
+  "SignalName_1": "AbsPos",
+  "SystemAlarm": "Yes",
+  "Unit": "kms",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16907"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Relative position",
+  "Dz_axisMasterId": "6913",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RelPos_1_path1",
+  "SignalName_1": "RelPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16908"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Machine position",
+  "Dz_axisMasterId": "6914",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "McnPos_1_path1",
+  "SignalName_1": "McnPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16909"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Battery low #CNC",
+  "Dz_axisMasterId": "6915",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "CncBatLow_1_path1",
+  "SignalName_1": "CncBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1690a"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Battery zero #APC",
+  "Dz_axisMasterId": "6916",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatZero_1_path1",
+  "SignalName_1": "ApcBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1690b"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Battery low #APC",
+  "Dz_axisMasterId": "6917",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatLow_1_path1",
+  "SignalName_1": "ApcBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1690c"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Battery zero #Inductosyn",
+  "Dz_axisMasterId": "6918",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "IndBatZero_1_path1",
+  "SignalName_1": "IndBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1690d"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Battery zero #Separate detector",
+  "Dz_axisMasterId": "6919",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpdBatZero_1_path1",
+  "SignalName_1": "SpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1690e"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Battery zero #Serial separate detector",
+  "Dz_axisMasterId": "6920",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SSpdBatZero_1_path1",
+  "SignalName_1": "SSpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1690f"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Temp #SVM",
+  "Dz_axisMasterId": "6921",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "0",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoTemp_1_path1",
+  "SignalName_1": "ServoTemp",
+  "SystemAlarm": "Yes",
+  "Unit": "Deg C",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16910"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Temp #APC",
+  "Dz_axisMasterId": "6922",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "75",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "PulseCoderTemp_1_path1",
+  "SignalName_1": "PulseCoderTemp",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16911"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Insulation data #SVM",
+  "Dz_axisMasterId": "6923",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "50",
+  "MaxWarning": "70",
+  "MinWarning": "70",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoLeakResistData_1_path1",
+  "SignalName_1": "ServoLeakResistData",
+  "SystemAlarm": "Yes",
+  "Unit": "M-Ohm",
+  "UnitValue": "M-Ohm"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16912"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Internal FAN1 speed #SVA",
+  "Dz_axisMasterId": "6924",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpSpeed_1_path1",
+  "SignalName_1": "InFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16913"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Internal FAN2 speed #SVA",
+  "Dz_axisMasterId": "6925",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpSpeed_1_path1",
+  "SignalName_1": "InFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16914"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Internal FAN1 status #SVA",
+  "Dz_axisMasterId": "6926",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpStatus_1_path1",
+  "SignalName_1": "InFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16915"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Internal FAN2 status #SVA",
+  "Dz_axisMasterId": "6927",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpStatus_1_path1",
+  "SignalName_1": "InFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16916"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Radiator FAN1 speed #SVA",
+  "Dz_axisMasterId": "6928",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpSpeed_1_path1",
+  "SignalName_1": "RadFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16917"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Radiator FAN2 speed #SVA",
+  "Dz_axisMasterId": "6929",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpSpeed_1_path1",
+  "SignalName_1": "RadFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16918"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Radiator FAN1 status #SVA",
+  "Dz_axisMasterId": "6930",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpStatus_1_path1",
+  "SignalName_1": "RadFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16919"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Radiator FAN2 status #SVA",
+  "Dz_axisMasterId": "6931",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpStatus_1_path1",
+  "SignalName_1": "RadFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1691a"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Internal FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "6932",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwSpeed_1_path1",
+  "SignalName_1": "InFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1691b"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Internal FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "6933",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwSpeed_1_path1",
+  "SignalName_1": "InFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1691c"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Internal FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "6934",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwStatus_1_path1",
+  "SignalName_1": "InFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1691d"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Internal FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "6935",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwStatus_1_path1",
+  "SignalName_1": "InFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1691e"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Radiator FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "6936",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwSpeed_1_path1",
+  "SignalName_1": "RadFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1691f"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Radiator FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "6937",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwSpeed_1_path1",
+  "SignalName_1": "RadFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16920"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Radiator FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "6938",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwStatus_1_path1",
+  "SignalName_1": "RadFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16921"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "Radiator FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "6939",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwStatus_1_path1",
+  "SignalName_1": "RadFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16922"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "In-position signals",
+  "Dz_axisMasterId": "6940",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SigINP_2_path1",
+  "SignalName_1": "SigINP",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16923"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Speed of servo motor",
+  "Dz_axisMasterId": "6941",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoSpeed_2_path1",
+  "SignalName_1": "ServoSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16924"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Servo load current(%)",
+  "Dz_axisMasterId": "6942",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrentPer_2_path1",
+  "SignalName_1": "ServoCurrentPer",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16925"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Servo load current(A)",
+  "Dz_axisMasterId": "6943",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrent_2_path1",
+  "SignalName_1": "ServoCurrent",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16926"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Servo load",
+  "Dz_axisMasterId": "6944",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "150",
+  "MaxWarning": "120",
+  "MinWarning": "0",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoLoad_2_path1",
+  "SignalName_1": "ServoLoad",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16927"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Deviation value of servo position",
+  "Dz_axisMasterId": "6945",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoError_2_path1",
+  "SignalName_1": "ServoError",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16928"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Absolute position",
+  "Dz_axisMasterId": "6946",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "120000",
+  "MaxWarning": "100000",
+  "MinWarning": "90000",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "AbsPos_2_path1",
+  "SignalName_1": "AbsPos",
+  "SystemAlarm": "Yes",
+  "Unit": "kms",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16929"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Relative position",
+  "Dz_axisMasterId": "6947",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RelPos_2_path1",
+  "SignalName_1": "RelPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1692a"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Machine position",
+  "Dz_axisMasterId": "6948",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "McnPos_2_path1",
+  "SignalName_1": "McnPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1692b"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Battery low #CNC",
+  "Dz_axisMasterId": "6949",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "CncBatLow_2_path1",
+  "SignalName_1": "CncBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1692c"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Battery zero #APC",
+  "Dz_axisMasterId": "6950",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatZero_2_path1",
+  "SignalName_1": "ApcBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1692d"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Battery low #APC",
+  "Dz_axisMasterId": "6951",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatLow_2_path1",
+  "SignalName_1": "ApcBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1692e"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Battery zero #Inductosyn",
+  "Dz_axisMasterId": "6952",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "IndBatZero_2_path1",
+  "SignalName_1": "IndBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1692f"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Battery zero #Separate detector",
+  "Dz_axisMasterId": "6953",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpdBatZero_2_path1",
+  "SignalName_1": "SpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16930"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Battery zero #Serial separate detector",
+  "Dz_axisMasterId": "6954",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SSpdBatZero_2_path1",
+  "SignalName_1": "SSpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16931"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Temp #SVM",
+  "Dz_axisMasterId": "6955",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "0",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoTemp_2_path1",
+  "SignalName_1": "ServoTemp",
+  "SystemAlarm": "Yes",
+  "Unit": "Deg C",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16932"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Temp #APC",
+  "Dz_axisMasterId": "6956",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "75",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "PulseCoderTemp_2_path1",
+  "SignalName_1": "PulseCoderTemp",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16933"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Insulation data #SVM",
+  "Dz_axisMasterId": "6957",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "50",
+  "MaxWarning": "70",
+  "MinWarning": "70",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoLeakResistData_2_path1",
+  "SignalName_1": "ServoLeakResistData",
+  "SystemAlarm": "Yes",
+  "Unit": "M-Ohm",
+  "UnitValue": "M-Ohm"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16934"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Internal FAN1 speed #SVA",
+  "Dz_axisMasterId": "6958",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpSpeed_2_path1",
+  "SignalName_1": "InFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16935"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Internal FAN2 speed #SVA",
+  "Dz_axisMasterId": "6959",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpSpeed_2_path1",
+  "SignalName_1": "InFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16936"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Internal FAN1 status #SVA",
+  "Dz_axisMasterId": "6960",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpStatus_2_path1",
+  "SignalName_1": "InFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16937"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Internal FAN2 status #SVA",
+  "Dz_axisMasterId": "6961",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpStatus_2_path1",
+  "SignalName_1": "InFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16938"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Radiator FAN1 speed #SVA",
+  "Dz_axisMasterId": "6962",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpSpeed_2_path1",
+  "SignalName_1": "RadFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16939"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Radiator FAN2 speed #SVA",
+  "Dz_axisMasterId": "6963",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpSpeed_2_path1",
+  "SignalName_1": "RadFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1693a"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Radiator FAN1 status #SVA",
+  "Dz_axisMasterId": "6964",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpStatus_2_path1",
+  "SignalName_1": "RadFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1693b"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Radiator FAN2 status #SVA",
+  "Dz_axisMasterId": "6965",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpStatus_2_path1",
+  "SignalName_1": "RadFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1693c"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Internal FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "6966",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwSpeed_2_path1",
+  "SignalName_1": "InFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1693d"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Internal FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "6967",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwSpeed_2_path1",
+  "SignalName_1": "InFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1693e"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Internal FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "6968",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwStatus_2_path1",
+  "SignalName_1": "InFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1693f"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Internal FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "6969",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwStatus_2_path1",
+  "SignalName_1": "InFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16940"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Radiator FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "6970",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwSpeed_2_path1",
+  "SignalName_1": "RadFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16941"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Radiator FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "6971",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwSpeed_2_path1",
+  "SignalName_1": "RadFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16942"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Radiator FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "6972",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwStatus_2_path1",
+  "SignalName_1": "RadFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16943"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "Radiator FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "6973",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwStatus_2_path1",
+  "SignalName_1": "RadFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16944"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "In-position signals",
+  "Dz_axisMasterId": "6974",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SigINP_3_path1",
+  "SignalName_1": "SigINP",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16945"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Speed of servo motor",
+  "Dz_axisMasterId": "6975",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoSpeed_3_path1",
+  "SignalName_1": "ServoSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16946"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Servo load current(%)",
+  "Dz_axisMasterId": "6976",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrentPer_3_path1",
+  "SignalName_1": "ServoCurrentPer",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16947"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Servo load current(A)",
+  "Dz_axisMasterId": "6977",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrent_3_path1",
+  "SignalName_1": "ServoCurrent",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16948"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Servo load",
+  "Dz_axisMasterId": "6978",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "150",
+  "MaxWarning": "120",
+  "MinWarning": "0",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoLoad_3_path1",
+  "SignalName_1": "ServoLoad",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16949"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Deviation value of servo position",
+  "Dz_axisMasterId": "6979",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoError_3_path1",
+  "SignalName_1": "ServoError",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1694a"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Absolute position",
+  "Dz_axisMasterId": "6980",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "120000",
+  "MaxWarning": "100000",
+  "MinWarning": "90000",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "AbsPos_3_path1",
+  "SignalName_1": "AbsPos",
+  "SystemAlarm": "Yes",
+  "Unit": "kms",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1694b"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Relative position",
+  "Dz_axisMasterId": "6981",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RelPos_3_path1",
+  "SignalName_1": "RelPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1694c"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Machine position",
+  "Dz_axisMasterId": "6982",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "McnPos_3_path1",
+  "SignalName_1": "McnPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1694d"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Battery low #CNC",
+  "Dz_axisMasterId": "6983",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "CncBatLow_3_path1",
+  "SignalName_1": "CncBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1694e"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Battery zero #APC",
+  "Dz_axisMasterId": "6984",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatZero_3_path1",
+  "SignalName_1": "ApcBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1694f"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Battery low #APC",
+  "Dz_axisMasterId": "6985",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatLow_3_path1",
+  "SignalName_1": "ApcBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16950"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Battery zero #Inductosyn",
+  "Dz_axisMasterId": "6986",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "IndBatZero_3_path1",
+  "SignalName_1": "IndBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16951"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Battery zero #Separate detector",
+  "Dz_axisMasterId": "6987",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpdBatZero_3_path1",
+  "SignalName_1": "SpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16952"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Battery zero #Serial separate detector",
+  "Dz_axisMasterId": "6988",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SSpdBatZero_3_path1",
+  "SignalName_1": "SSpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16953"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Temp #SVM",
+  "Dz_axisMasterId": "6989",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "0",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoTemp_3_path1",
+  "SignalName_1": "ServoTemp",
+  "SystemAlarm": "Yes",
+  "Unit": "Deg C",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16954"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Temp #APC",
+  "Dz_axisMasterId": "6990",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "75",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "PulseCoderTemp_3_path1",
+  "SignalName_1": "PulseCoderTemp",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16955"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Insulation data #SVM",
+  "Dz_axisMasterId": "6991",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "50",
+  "MaxWarning": "70",
+  "MinWarning": "70",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoLeakResistData_3_path1",
+  "SignalName_1": "ServoLeakResistData",
+  "SystemAlarm": "Yes",
+  "Unit": "M-Ohm",
+  "UnitValue": "M-Ohm"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16956"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Internal FAN1 speed #SVA",
+  "Dz_axisMasterId": "6992",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpSpeed_3_path1",
+  "SignalName_1": "InFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16957"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Internal FAN2 speed #SVA",
+  "Dz_axisMasterId": "6993",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpSpeed_3_path1",
+  "SignalName_1": "InFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16958"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Internal FAN1 status #SVA",
+  "Dz_axisMasterId": "6994",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpStatus_3_path1",
+  "SignalName_1": "InFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16959"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Internal FAN2 status #SVA",
+  "Dz_axisMasterId": "6995",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpStatus_3_path1",
+  "SignalName_1": "InFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1695a"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Radiator FAN1 speed #SVA",
+  "Dz_axisMasterId": "6996",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpSpeed_3_path1",
+  "SignalName_1": "RadFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1695b"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Radiator FAN2 speed #SVA",
+  "Dz_axisMasterId": "6997",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpSpeed_3_path1",
+  "SignalName_1": "RadFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1695c"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Radiator FAN1 status #SVA",
+  "Dz_axisMasterId": "6998",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpStatus_3_path1",
+  "SignalName_1": "RadFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1695d"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Radiator FAN2 status #SVA",
+  "Dz_axisMasterId": "6999",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpStatus_3_path1",
+  "SignalName_1": "RadFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1695e"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Internal FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "7000",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwSpeed_3_path1",
+  "SignalName_1": "InFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1695f"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Internal FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "7001",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwSpeed_3_path1",
+  "SignalName_1": "InFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16960"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Internal FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "7002",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwStatus_3_path1",
+  "SignalName_1": "InFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16961"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Internal FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "7003",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwStatus_3_path1",
+  "SignalName_1": "InFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16962"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Radiator FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "7004",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwSpeed_3_path1",
+  "SignalName_1": "RadFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16963"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Radiator FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "7005",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwSpeed_3_path1",
+  "SignalName_1": "RadFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16964"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Radiator FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "7006",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwStatus_3_path1",
+  "SignalName_1": "RadFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16965"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "Radiator FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "7007",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwStatus_3_path1",
+  "SignalName_1": "RadFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16966"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "In-position signals",
+  "Dz_axisMasterId": "7008",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SigINP_4_path1",
+  "SignalName_1": "SigINP",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16967"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Speed of servo motor",
+  "Dz_axisMasterId": "7009",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoSpeed_4_path1",
+  "SignalName_1": "ServoSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16968"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Servo load current(%)",
+  "Dz_axisMasterId": "7010",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrentPer_4_path1",
+  "SignalName_1": "ServoCurrentPer",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16969"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Servo load current(A)",
+  "Dz_axisMasterId": "7011",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrent_4_path1",
+  "SignalName_1": "ServoCurrent",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1696a"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Servo load",
+  "Dz_axisMasterId": "7012",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "150",
+  "MaxWarning": "120",
+  "MinWarning": "0",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoLoad_4_path1",
+  "SignalName_1": "ServoLoad",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1696b"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Deviation value of servo position",
+  "Dz_axisMasterId": "7013",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoError_4_path1",
+  "SignalName_1": "ServoError",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1696c"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Absolute position",
+  "Dz_axisMasterId": "7014",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "120000",
+  "MaxWarning": "100000",
+  "MinWarning": "90000",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "AbsPos_4_path1",
+  "SignalName_1": "AbsPos",
+  "SystemAlarm": "Yes",
+  "Unit": "kms",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1696d"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Relative position",
+  "Dz_axisMasterId": "7015",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RelPos_4_path1",
+  "SignalName_1": "RelPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1696e"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Machine position",
+  "Dz_axisMasterId": "7016",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "McnPos_4_path1",
+  "SignalName_1": "McnPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1696f"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Battery low #CNC",
+  "Dz_axisMasterId": "7017",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "CncBatLow_4_path1",
+  "SignalName_1": "CncBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16970"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Battery zero #APC",
+  "Dz_axisMasterId": "7018",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatZero_4_path1",
+  "SignalName_1": "ApcBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16971"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Battery low #APC",
+  "Dz_axisMasterId": "7019",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatLow_4_path1",
+  "SignalName_1": "ApcBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16972"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Battery zero #Inductosyn",
+  "Dz_axisMasterId": "7020",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "IndBatZero_4_path1",
+  "SignalName_1": "IndBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16973"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Battery zero #Separate detector",
+  "Dz_axisMasterId": "7021",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpdBatZero_4_path1",
+  "SignalName_1": "SpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16974"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Battery zero #Serial separate detector",
+  "Dz_axisMasterId": "7022",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SSpdBatZero_4_path1",
+  "SignalName_1": "SSpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16975"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Temp #SVM",
+  "Dz_axisMasterId": "7023",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "0",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoTemp_4_path1",
+  "SignalName_1": "ServoTemp",
+  "SystemAlarm": "Yes",
+  "Unit": "Deg C",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16976"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Temp #APC",
+  "Dz_axisMasterId": "7024",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "75",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "PulseCoderTemp_4_path1",
+  "SignalName_1": "PulseCoderTemp",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16977"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Insulation data #SVM",
+  "Dz_axisMasterId": "7025",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "50",
+  "MaxWarning": "70",
+  "MinWarning": "70",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoLeakResistData_4_path1",
+  "SignalName_1": "ServoLeakResistData",
+  "SystemAlarm": "Yes",
+  "Unit": "M-Ohm",
+  "UnitValue": "M-Ohm"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16978"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Internal FAN1 speed #SVA",
+  "Dz_axisMasterId": "7026",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpSpeed_4_path1",
+  "SignalName_1": "InFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16979"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Internal FAN2 speed #SVA",
+  "Dz_axisMasterId": "7027",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpSpeed_4_path1",
+  "SignalName_1": "InFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1697a"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Internal FAN1 status #SVA",
+  "Dz_axisMasterId": "7028",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpStatus_4_path1",
+  "SignalName_1": "InFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1697b"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Internal FAN2 status #SVA",
+  "Dz_axisMasterId": "7029",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpStatus_4_path1",
+  "SignalName_1": "InFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1697c"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Radiator FAN1 speed #SVA",
+  "Dz_axisMasterId": "7030",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpSpeed_4_path1",
+  "SignalName_1": "RadFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1697d"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Radiator FAN2 speed #SVA",
+  "Dz_axisMasterId": "7031",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpSpeed_4_path1",
+  "SignalName_1": "RadFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1697e"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Radiator FAN1 status #SVA",
+  "Dz_axisMasterId": "7032",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpStatus_4_path1",
+  "SignalName_1": "RadFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1697f"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Radiator FAN2 status #SVA",
+  "Dz_axisMasterId": "7033",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpStatus_4_path1",
+  "SignalName_1": "RadFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16980"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Internal FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "7034",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwSpeed_4_path1",
+  "SignalName_1": "InFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16981"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Internal FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "7035",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwSpeed_4_path1",
+  "SignalName_1": "InFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16982"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Internal FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "7036",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwStatus_4_path1",
+  "SignalName_1": "InFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16983"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Internal FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "7037",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwStatus_4_path1",
+  "SignalName_1": "InFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16984"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Radiator FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "7038",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwSpeed_4_path1",
+  "SignalName_1": "RadFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16985"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Radiator FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "7039",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwSpeed_4_path1",
+  "SignalName_1": "RadFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16986"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Radiator FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "7040",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwStatus_4_path1",
+  "SignalName_1": "RadFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16987"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "Radiator FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "7041",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwStatus_4_path1",
+  "SignalName_1": "RadFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16988"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "In-position signals",
+  "Dz_axisMasterId": "7042",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SigINP_5_path1",
+  "SignalName_1": "SigINP",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16989"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Speed of servo motor",
+  "Dz_axisMasterId": "7043",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoSpeed_5_path1",
+  "SignalName_1": "ServoSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1698a"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Servo load current(%)",
+  "Dz_axisMasterId": "7044",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrentPer_5_path1",
+  "SignalName_1": "ServoCurrentPer",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1698b"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Servo load current(A)",
+  "Dz_axisMasterId": "7045",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrent_5_path1",
+  "SignalName_1": "ServoCurrent",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1698c"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Servo load",
+  "Dz_axisMasterId": "7046",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "150",
+  "MaxWarning": "120",
+  "MinWarning": "0",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoLoad_5_path1",
+  "SignalName_1": "ServoLoad",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1698d"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Deviation value of servo position",
+  "Dz_axisMasterId": "7047",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoError_5_path1",
+  "SignalName_1": "ServoError",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1698e"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Absolute position",
+  "Dz_axisMasterId": "7048",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "120000",
+  "MaxWarning": "100000",
+  "MinWarning": "90000",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "AbsPos_5_path1",
+  "SignalName_1": "AbsPos",
+  "SystemAlarm": "Yes",
+  "Unit": "kms",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1698f"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Relative position",
+  "Dz_axisMasterId": "7049",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RelPos_5_path1",
+  "SignalName_1": "RelPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16990"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Machine position",
+  "Dz_axisMasterId": "7050",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "McnPos_5_path1",
+  "SignalName_1": "McnPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16991"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Battery low #CNC",
+  "Dz_axisMasterId": "7051",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "CncBatLow_5_path1",
+  "SignalName_1": "CncBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16992"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Battery zero #APC",
+  "Dz_axisMasterId": "7052",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatZero_5_path1",
+  "SignalName_1": "ApcBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16993"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Battery low #APC",
+  "Dz_axisMasterId": "7053",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatLow_5_path1",
+  "SignalName_1": "ApcBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16994"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Battery zero #Inductosyn",
+  "Dz_axisMasterId": "7054",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "IndBatZero_5_path1",
+  "SignalName_1": "IndBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16995"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Battery zero #Separate detector",
+  "Dz_axisMasterId": "7055",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpdBatZero_5_path1",
+  "SignalName_1": "SpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16996"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Battery zero #Serial separate detector",
+  "Dz_axisMasterId": "7056",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SSpdBatZero_5_path1",
+  "SignalName_1": "SSpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16997"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Temp #SVM",
+  "Dz_axisMasterId": "7057",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "0",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoTemp_5_path1",
+  "SignalName_1": "ServoTemp",
+  "SystemAlarm": "Yes",
+  "Unit": "Deg C",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16998"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Temp #APC",
+  "Dz_axisMasterId": "7058",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "75",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "PulseCoderTemp_5_path1",
+  "SignalName_1": "PulseCoderTemp",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16999"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Insulation data #SVM",
+  "Dz_axisMasterId": "7059",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "50",
+  "MaxWarning": "70",
+  "MinWarning": "70",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoLeakResistData_5_path1",
+  "SignalName_1": "ServoLeakResistData",
+  "SystemAlarm": "Yes",
+  "Unit": "M-Ohm",
+  "UnitValue": "M-Ohm"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1699a"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Internal FAN1 speed #SVA",
+  "Dz_axisMasterId": "7060",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpSpeed_5_path1",
+  "SignalName_1": "InFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1699b"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Internal FAN2 speed #SVA",
+  "Dz_axisMasterId": "7061",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpSpeed_5_path1",
+  "SignalName_1": "InFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1699c"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Internal FAN1 status #SVA",
+  "Dz_axisMasterId": "7062",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpStatus_5_path1",
+  "SignalName_1": "InFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1699d"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Internal FAN2 status #SVA",
+  "Dz_axisMasterId": "7063",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpStatus_5_path1",
+  "SignalName_1": "InFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1699e"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Radiator FAN1 speed #SVA",
+  "Dz_axisMasterId": "7064",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpSpeed_5_path1",
+  "SignalName_1": "RadFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f1699f"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Radiator FAN2 speed #SVA",
+  "Dz_axisMasterId": "7065",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpSpeed_5_path1",
+  "SignalName_1": "RadFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169a0"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Radiator FAN1 status #SVA",
+  "Dz_axisMasterId": "7066",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpStatus_5_path1",
+  "SignalName_1": "RadFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169a1"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Radiator FAN2 status #SVA",
+  "Dz_axisMasterId": "7067",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpStatus_5_path1",
+  "SignalName_1": "RadFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169a2"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Internal FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "7068",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwSpeed_5_path1",
+  "SignalName_1": "InFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169a3"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Internal FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "7069",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwSpeed_5_path1",
+  "SignalName_1": "InFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169a4"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Internal FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "7070",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwStatus_5_path1",
+  "SignalName_1": "InFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169a5"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Internal FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "7071",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwStatus_5_path1",
+  "SignalName_1": "InFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169a6"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Radiator FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "7072",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwSpeed_5_path1",
+  "SignalName_1": "RadFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169a7"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Radiator FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "7073",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwSpeed_5_path1",
+  "SignalName_1": "RadFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169a8"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Radiator FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "7074",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwStatus_5_path1",
+  "SignalName_1": "RadFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169a9"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "Radiator FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "7075",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwStatus_5_path1",
+  "SignalName_1": "RadFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169aa"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "In-position signals",
+  "Dz_axisMasterId": "7076",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SigINP_6_path1",
+  "SignalName_1": "SigINP",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169ab"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Speed of servo motor",
+  "Dz_axisMasterId": "7077",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoSpeed_6_path1",
+  "SignalName_1": "ServoSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169ac"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Servo load current(%)",
+  "Dz_axisMasterId": "7078",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrentPer_6_path1",
+  "SignalName_1": "ServoCurrentPer",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169ad"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Servo load current(A)",
+  "Dz_axisMasterId": "7079",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrent_6_path1",
+  "SignalName_1": "ServoCurrent",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169ae"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Servo load",
+  "Dz_axisMasterId": "7080",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "150",
+  "MaxWarning": "120",
+  "MinWarning": "0",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoLoad_6_path1",
+  "SignalName_1": "ServoLoad",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169af"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Deviation value of servo position",
+  "Dz_axisMasterId": "7081",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoError_6_path1",
+  "SignalName_1": "ServoError",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169b0"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Absolute position",
+  "Dz_axisMasterId": "7082",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "120000",
+  "MaxWarning": "100000",
+  "MinWarning": "90000",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "AbsPos_6_path1",
+  "SignalName_1": "AbsPos",
+  "SystemAlarm": "Yes",
+  "Unit": "kms",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169b1"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Relative position",
+  "Dz_axisMasterId": "7083",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RelPos_6_path1",
+  "SignalName_1": "RelPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169b2"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Machine position",
+  "Dz_axisMasterId": "7084",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "McnPos_6_path1",
+  "SignalName_1": "McnPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169b3"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Battery low #CNC",
+  "Dz_axisMasterId": "7085",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "CncBatLow_6_path1",
+  "SignalName_1": "CncBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169b4"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Battery zero #APC",
+  "Dz_axisMasterId": "7086",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatZero_6_path1",
+  "SignalName_1": "ApcBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169b5"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Battery low #APC",
+  "Dz_axisMasterId": "7087",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatLow_6_path1",
+  "SignalName_1": "ApcBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169b6"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Battery zero #Inductosyn",
+  "Dz_axisMasterId": "7088",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "IndBatZero_6_path1",
+  "SignalName_1": "IndBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169b7"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Battery zero #Separate detector",
+  "Dz_axisMasterId": "7089",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpdBatZero_6_path1",
+  "SignalName_1": "SpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169b8"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Battery zero #Serial separate detector",
+  "Dz_axisMasterId": "7090",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SSpdBatZero_6_path1",
+  "SignalName_1": "SSpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169b9"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Temp #SVM",
+  "Dz_axisMasterId": "7091",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "0",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoTemp_6_path1",
+  "SignalName_1": "ServoTemp",
+  "SystemAlarm": "Yes",
+  "Unit": "Deg C",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169ba"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Temp #APC",
+  "Dz_axisMasterId": "7092",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "75",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "PulseCoderTemp_6_path1",
+  "SignalName_1": "PulseCoderTemp",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169bb"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Insulation data #SVM",
+  "Dz_axisMasterId": "7093",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "50",
+  "MaxWarning": "70",
+  "MinWarning": "70",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoLeakResistData_6_path1",
+  "SignalName_1": "ServoLeakResistData",
+  "SystemAlarm": "Yes",
+  "Unit": "M-Ohm",
+  "UnitValue": "M-Ohm"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169bc"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Internal FAN1 speed #SVA",
+  "Dz_axisMasterId": "7094",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpSpeed_6_path1",
+  "SignalName_1": "InFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169bd"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Internal FAN2 speed #SVA",
+  "Dz_axisMasterId": "7095",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpSpeed_6_path1",
+  "SignalName_1": "InFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169be"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Internal FAN1 status #SVA",
+  "Dz_axisMasterId": "7096",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpStatus_6_path1",
+  "SignalName_1": "InFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169bf"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Internal FAN2 status #SVA",
+  "Dz_axisMasterId": "7097",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpStatus_6_path1",
+  "SignalName_1": "InFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169c0"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Radiator FAN1 speed #SVA",
+  "Dz_axisMasterId": "7098",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpSpeed_6_path1",
+  "SignalName_1": "RadFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169c1"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Radiator FAN2 speed #SVA",
+  "Dz_axisMasterId": "7099",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpSpeed_6_path1",
+  "SignalName_1": "RadFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169c2"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Radiator FAN1 status #SVA",
+  "Dz_axisMasterId": "7100",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpStatus_6_path1",
+  "SignalName_1": "RadFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169c3"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Radiator FAN2 status #SVA",
+  "Dz_axisMasterId": "7101",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpStatus_6_path1",
+  "SignalName_1": "RadFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169c4"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Internal FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "7102",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwSpeed_6_path1",
+  "SignalName_1": "InFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169c5"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Internal FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "7103",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwSpeed_6_path1",
+  "SignalName_1": "InFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169c6"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Internal FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "7104",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwStatus_6_path1",
+  "SignalName_1": "InFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169c7"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Internal FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "7105",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwStatus_6_path1",
+  "SignalName_1": "InFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169c8"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Radiator FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "7106",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwSpeed_6_path1",
+  "SignalName_1": "RadFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169c9"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Radiator FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "7107",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwSpeed_6_path1",
+  "SignalName_1": "RadFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169ca"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Radiator FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "7108",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwStatus_6_path1",
+  "SignalName_1": "RadFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169cb"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "Radiator FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "7109",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwStatus_6_path1",
+  "SignalName_1": "RadFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169cc"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "In-position signals",
+  "Dz_axisMasterId": "7110",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SigINP_7_path1",
+  "SignalName_1": "SigINP",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169cd"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Speed of servo motor",
+  "Dz_axisMasterId": "7111",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoSpeed_7_path1",
+  "SignalName_1": "ServoSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169ce"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Servo load current(%)",
+  "Dz_axisMasterId": "7112",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrentPer_7_path1",
+  "SignalName_1": "ServoCurrentPer",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169cf"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Servo load current(A)",
+  "Dz_axisMasterId": "7113",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrent_7_path1",
+  "SignalName_1": "ServoCurrent",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169d0"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Servo load",
+  "Dz_axisMasterId": "7114",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "150",
+  "MaxWarning": "120",
+  "MinWarning": "0",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoLoad_7_path1",
+  "SignalName_1": "ServoLoad",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169d1"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Deviation value of servo position",
+  "Dz_axisMasterId": "7115",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoError_7_path1",
+  "SignalName_1": "ServoError",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169d2"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Absolute position",
+  "Dz_axisMasterId": "7116",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "120000",
+  "MaxWarning": "100000",
+  "MinWarning": "90000",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "AbsPos_7_path1",
+  "SignalName_1": "AbsPos",
+  "SystemAlarm": "Yes",
+  "Unit": "kms",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169d3"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Relative position",
+  "Dz_axisMasterId": "7117",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RelPos_7_path1",
+  "SignalName_1": "RelPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169d4"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Machine position",
+  "Dz_axisMasterId": "7118",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "McnPos_7_path1",
+  "SignalName_1": "McnPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169d5"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Battery low #CNC",
+  "Dz_axisMasterId": "7119",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "CncBatLow_7_path1",
+  "SignalName_1": "CncBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169d6"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Battery zero #APC",
+  "Dz_axisMasterId": "7120",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatZero_7_path1",
+  "SignalName_1": "ApcBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169d7"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Battery low #APC",
+  "Dz_axisMasterId": "7121",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatLow_7_path1",
+  "SignalName_1": "ApcBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169d8"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Battery zero #Inductosyn",
+  "Dz_axisMasterId": "7122",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "IndBatZero_7_path1",
+  "SignalName_1": "IndBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169d9"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Battery zero #Separate detector",
+  "Dz_axisMasterId": "7123",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpdBatZero_7_path1",
+  "SignalName_1": "SpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169da"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Battery zero #Serial separate detector",
+  "Dz_axisMasterId": "7124",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SSpdBatZero_7_path1",
+  "SignalName_1": "SSpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169db"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Temp #SVM",
+  "Dz_axisMasterId": "7125",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "0",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoTemp_7_path1",
+  "SignalName_1": "ServoTemp",
+  "SystemAlarm": "Yes",
+  "Unit": "Deg C",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169dc"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Temp #APC",
+  "Dz_axisMasterId": "7126",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "75",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "PulseCoderTemp_7_path1",
+  "SignalName_1": "PulseCoderTemp",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169dd"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Insulation data #SVM",
+  "Dz_axisMasterId": "7127",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "50",
+  "MaxWarning": "70",
+  "MinWarning": "70",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoLeakResistData_7_path1",
+  "SignalName_1": "ServoLeakResistData",
+  "SystemAlarm": "Yes",
+  "Unit": "M-Ohm",
+  "UnitValue": "M-Ohm"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169de"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Internal FAN1 speed #SVA",
+  "Dz_axisMasterId": "7128",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpSpeed_7_path1",
+  "SignalName_1": "InFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169df"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Internal FAN2 speed #SVA",
+  "Dz_axisMasterId": "7129",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpSpeed_7_path1",
+  "SignalName_1": "InFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169e0"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Internal FAN1 status #SVA",
+  "Dz_axisMasterId": "7130",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpStatus_7_path1",
+  "SignalName_1": "InFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169e1"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Internal FAN2 status #SVA",
+  "Dz_axisMasterId": "7131",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpStatus_7_path1",
+  "SignalName_1": "InFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169e2"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Radiator FAN1 speed #SVA",
+  "Dz_axisMasterId": "7132",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpSpeed_7_path1",
+  "SignalName_1": "RadFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169e3"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Radiator FAN2 speed #SVA",
+  "Dz_axisMasterId": "7133",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpSpeed_7_path1",
+  "SignalName_1": "RadFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169e4"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Radiator FAN1 status #SVA",
+  "Dz_axisMasterId": "7134",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpStatus_7_path1",
+  "SignalName_1": "RadFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169e5"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Radiator FAN2 status #SVA",
+  "Dz_axisMasterId": "7135",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpStatus_7_path1",
+  "SignalName_1": "RadFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169e6"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Internal FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "7136",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwSpeed_7_path1",
+  "SignalName_1": "InFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169e7"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Internal FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "7137",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwSpeed_7_path1",
+  "SignalName_1": "InFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169e8"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Internal FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "7138",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwStatus_7_path1",
+  "SignalName_1": "InFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169e9"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Internal FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "7139",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwStatus_7_path1",
+  "SignalName_1": "InFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169ea"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Radiator FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "7140",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwSpeed_7_path1",
+  "SignalName_1": "RadFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169eb"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Radiator FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "7141",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwSpeed_7_path1",
+  "SignalName_1": "RadFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169ec"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Radiator FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "7142",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwStatus_7_path1",
+  "SignalName_1": "RadFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169ed"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "Radiator FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "7143",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwStatus_7_path1",
+  "SignalName_1": "RadFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169ee"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "In-position signals",
+  "Dz_axisMasterId": "7144",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SigINP_8_path1",
+  "SignalName_1": "SigINP",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169ef"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Speed of servo motor",
+  "Dz_axisMasterId": "7145",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoSpeed_8_path1",
+  "SignalName_1": "ServoSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169f0"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Servo load current(%)",
+  "Dz_axisMasterId": "7146",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrentPer_8_path1",
+  "SignalName_1": "ServoCurrentPer",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169f1"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Servo load current(A)",
+  "Dz_axisMasterId": "7147",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoCurrent_8_path1",
+  "SignalName_1": "ServoCurrent",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169f2"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Servo load",
+  "Dz_axisMasterId": "7148",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "150",
+  "MaxWarning": "120",
+  "MinWarning": "0",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoLoad_8_path1",
+  "SignalName_1": "ServoLoad",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169f3"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Deviation value of servo position",
+  "Dz_axisMasterId": "7149",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ServoError_8_path1",
+  "SignalName_1": "ServoError",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169f4"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Absolute position",
+  "Dz_axisMasterId": "7150",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "120000",
+  "MaxWarning": "100000",
+  "MinWarning": "90000",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "AbsPos_8_path1",
+  "SignalName_1": "AbsPos",
+  "SystemAlarm": "Yes",
+  "Unit": "kms",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169f5"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Relative position",
+  "Dz_axisMasterId": "7151",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RelPos_8_path1",
+  "SignalName_1": "RelPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169f6"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Machine position",
+  "Dz_axisMasterId": "7152",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "McnPos_8_path1",
+  "SignalName_1": "McnPos",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169f7"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Battery low #CNC",
+  "Dz_axisMasterId": "7153",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "CncBatLow_8_path1",
+  "SignalName_1": "CncBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169f8"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Battery zero #APC",
+  "Dz_axisMasterId": "7154",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatZero_8_path1",
+  "SignalName_1": "ApcBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169f9"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Battery low #APC",
+  "Dz_axisMasterId": "7155",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "ApcBatLow_8_path1",
+  "SignalName_1": "ApcBatLow",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169fa"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Battery zero #Inductosyn",
+  "Dz_axisMasterId": "7156",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "IndBatZero_8_path1",
+  "SignalName_1": "IndBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169fb"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Battery zero #Separate detector",
+  "Dz_axisMasterId": "7157",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpdBatZero_8_path1",
+  "SignalName_1": "SpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169fc"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Battery zero #Serial separate detector",
+  "Dz_axisMasterId": "7158",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SSpdBatZero_8_path1",
+  "SignalName_1": "SSpdBatZero",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169fd"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Temp #SVM",
+  "Dz_axisMasterId": "7159",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "0",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoTemp_8_path1",
+  "SignalName_1": "ServoTemp",
+  "SystemAlarm": "Yes",
+  "Unit": "Deg C",
+  "UnitValue": null
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169fe"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Temp #APC",
+  "Dz_axisMasterId": "7160",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "75",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "PulseCoderTemp_8_path1",
+  "SignalName_1": "PulseCoderTemp",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f169ff"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Insulation data #SVM",
+  "Dz_axisMasterId": "7161",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "50",
+  "MaxWarning": "70",
+  "MinWarning": "70",
+  "NotificationSendTo": null,
+  "PathName": "path1",
+  "SignalName": "ServoLeakResistData_8_path1",
+  "SignalName_1": "ServoLeakResistData",
+  "SystemAlarm": "Yes",
+  "Unit": "M-Ohm",
+  "UnitValue": "M-Ohm"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a00"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Internal FAN1 speed #SVA",
+  "Dz_axisMasterId": "7162",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpSpeed_8_path1",
+  "SignalName_1": "InFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a01"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Internal FAN2 speed #SVA",
+  "Dz_axisMasterId": "7163",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpSpeed_8_path1",
+  "SignalName_1": "InFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a02"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Internal FAN1 status #SVA",
+  "Dz_axisMasterId": "7164",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvAmpStatus_8_path1",
+  "SignalName_1": "InFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a03"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Internal FAN2 status #SVA",
+  "Dz_axisMasterId": "7165",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvAmpStatus_8_path1",
+  "SignalName_1": "InFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a04"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Radiator FAN1 speed #SVA",
+  "Dz_axisMasterId": "7166",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpSpeed_8_path1",
+  "SignalName_1": "RadFan1SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a05"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Radiator FAN2 speed #SVA",
+  "Dz_axisMasterId": "7167",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpSpeed_8_path1",
+  "SignalName_1": "RadFan2SrvAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a06"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Radiator FAN1 status #SVA",
+  "Dz_axisMasterId": "7168",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvAmpStatus_8_path1",
+  "SignalName_1": "RadFan1SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a07"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Radiator FAN2 status #SVA",
+  "Dz_axisMasterId": "7169",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvAmpStatus_8_path1",
+  "SignalName_1": "RadFan2SrvAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a08"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Internal FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "7170",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwSpeed_8_path1",
+  "SignalName_1": "InFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a09"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Internal FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "7171",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwSpeed_8_path1",
+  "SignalName_1": "InFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a0a"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Internal FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "7172",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SrvComPwStatus_8_path1",
+  "SignalName_1": "InFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a0b"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Internal FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "7173",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SrvComPwStatus_8_path1",
+  "SignalName_1": "InFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a0c"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Radiator FAN1 speed #PS-SVM",
+  "Dz_axisMasterId": "7174",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwSpeed_8_path1",
+  "SignalName_1": "RadFan1SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a0d"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Radiator FAN2 speed #PS-SVM",
+  "Dz_axisMasterId": "7175",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwSpeed_8_path1",
+  "SignalName_1": "RadFan2SrvComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a0e"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Radiator FAN1 status #PS-SVM",
+  "Dz_axisMasterId": "7176",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SrvComPwStatus_8_path1",
+  "SignalName_1": "RadFan1SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a0f"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "Radiator FAN2 status #PS-SVM",
+  "Dz_axisMasterId": "7177",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SrvComPwStatus_8_path1",
+  "SignalName_1": "RadFan2SrvComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a10"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Spindle axis operating signal",
+  "Dz_axisMasterId": "7178",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SigENB_0_path1",
+  "SignalName_1": "SigENB",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a11"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Spindle motor load",
+  "Dz_axisMasterId": "7179",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "160",
+  "MaxWarning": "120",
+  "MinWarning": "0",
+  "NotificationSendTo": "ajit@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpindleLoad_0_path1",
+  "SignalName_1": "SpindleLoad",
+  "SystemAlarm": "Yes",
+  "Unit": "mm",
+  "UnitValue": "1000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a12"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Speed of spindle motor",
+  "Dz_axisMasterId": "7180",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpindleSpeed_0_path1",
+  "SignalName_1": "SpindleSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a13"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Temp #SPM",
+  "Dz_axisMasterId": "7181",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "75",
+  "MaxWarning": "60",
+  "MinWarning": "0",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpindleTemp_0_path1",
+  "SignalName_1": "SpindleTemp",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a14"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Insulation data #SPM",
+  "Dz_axisMasterId": "7182",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpindleLeakResistData_0_path1",
+  "SignalName_1": "SpindleLeakResistData",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a15"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Total revolution num. No.1 #SPM",
+  "Dz_axisMasterId": "7183",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpindleTotalRev1_0_path1",
+  "SignalName_1": "SpindleTotalRev1",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a16"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Total revolution num. No.2 #SPM",
+  "Dz_axisMasterId": "7184",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "SpindleTotalRev2_0_path1",
+  "SignalName_1": "SpindleTotalRev2",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a17"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN1 speed #PS-SPM",
+  "Dz_axisMasterId": "7185",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SpdlComPwSpeed_0_path1",
+  "SignalName_1": "InFan1SpdlComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a18"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN2 speed #PS-SPM",
+  "Dz_axisMasterId": "7186",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SpdlComPwSpeed_0_path1",
+  "SignalName_1": "InFan2SpdlComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a19"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN1 status #PS-SPM",
+  "Dz_axisMasterId": "7187",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SpdlComPwStatus_0_path1",
+  "SignalName_1": "InFan1SpdlComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a1a"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN2 status #PS-SPM",
+  "Dz_axisMasterId": "7188",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SpdlComPwStatus_0_path1",
+  "SignalName_1": "InFan2SpdlComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a1b"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN1 speed #PS-SPM",
+  "Dz_axisMasterId": "7189",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SpdlComPwSpeed_0_path1",
+  "SignalName_1": "RadFan1SpdlComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a1c"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN2 speed #PS-SPM",
+  "Dz_axisMasterId": "7190",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SpdlComPwSpeed_0_path1",
+  "SignalName_1": "RadFan2SpdlComPwSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a1d"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN1 status #PS-SPM",
+  "Dz_axisMasterId": "7191",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SpdlComPwStatus_0_path1",
+  "SignalName_1": "RadFan1SpdlComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a1e"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN2 status #PS-SPM",
+  "Dz_axisMasterId": "7192",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SpdlComPwStatus_0_path1",
+  "SignalName_1": "RadFan2SpdlComPwStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a1f"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN1 speed #SPA",
+  "Dz_axisMasterId": "7193",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SpindleAmpSpeed_0_path1",
+  "SignalName_1": "InFan1SpindleAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a20"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN2 speed #SPA",
+  "Dz_axisMasterId": "7194",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SpindleAmpSpeed_0_path1",
+  "SignalName_1": "InFan2SpindleAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a21"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN1 status #SPA",
+  "Dz_axisMasterId": "7195",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan1SpindleAmpStatus_0_path1",
+  "SignalName_1": "InFan1SpindleAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a22"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Internal FAN2 status #SPA",
+  "Dz_axisMasterId": "7196",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "InFan2SpindleAmpStatus_0_path1",
+  "SignalName_1": "InFan2SpindleAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a23"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN1 speed #SPA",
+  "Dz_axisMasterId": "7197",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SpindleAmpSpeed_0_path1",
+  "SignalName_1": "RadFan1SpindleAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a24"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN2 speed #SPA",
+  "Dz_axisMasterId": "7198",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SpindleAmpSpeed_0_path1",
+  "SignalName_1": "RadFan2SpindleAmpSpeed",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a25"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN1 status #SPA",
+  "Dz_axisMasterId": "7199",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan1SpindleAmpStatus_0_path1",
+  "SignalName_1": "RadFan1SpindleAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a26"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "Radiator FAN2 status #SPA",
+  "Dz_axisMasterId": "7200",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "RadFan2SpindleAmpStatus_0_path1",
+  "SignalName_1": "RadFan2SpindleAmpStatus",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a27"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Alarm message",
+  "Dz_axisMasterId": "7201",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "Alarm",
+  "SignalName_1": "Alarm",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d44cc1bf30c4f16a28"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "null",
+  "DisplayName": "Operator macro message",
+  "Dz_axisMasterId": "7202",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "null",
+  "SignalName": "OpMacroMsg",
+  "SignalName_1": "OpMacroMsg",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d84cc1bf30c4f1b16d"
+  },
+  "AxisName": "X",
+  "AxisNumber": "0",
+  "DisplayName": "LM",
+  "Dz_axisMasterId": "25447",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "LM_0_path1_NCH10_B",
+  "SignalName_1": "LM_Abs",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d84cc1bf30c4f1b16e"
+  },
+  "AxisName": "Y",
+  "AxisNumber": "1",
+  "DisplayName": "LM",
+  "Dz_axisMasterId": "25448",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "LM_1_path1_NCH10_B",
+  "SignalName_1": "LM_Abs",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d84cc1bf30c4f1b16f"
+  },
+  "AxisName": "Z",
+  "AxisNumber": "2",
+  "DisplayName": "LM",
+  "Dz_axisMasterId": "25449",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "LM_2_path1_NCH10_B",
+  "SignalName_1": "LM_Abs",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d84cc1bf30c4f1b170"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "3",
+  "DisplayName": "LM",
+  "Dz_axisMasterId": "25450",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "LM_3_path1_NCH10_B",
+  "SignalName_1": "LM_Abs",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d84cc1bf30c4f1b171"
+  },
+  "AxisName": "A",
+  "AxisNumber": "4",
+  "DisplayName": "LM",
+  "Dz_axisMasterId": "25451",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "LM_4_path1_NCH10_B",
+  "SignalName_1": "LM_Abs",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d84cc1bf30c4f1b172"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "5",
+  "DisplayName": "LM",
+  "Dz_axisMasterId": "25452",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "LM_5_path1_NCH10_B",
+  "SignalName_1": "LM_Abs",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d84cc1bf30c4f1b173"
+  },
+  "AxisName": "MG",
+  "AxisNumber": "6",
+  "DisplayName": "LM",
+  "Dz_axisMasterId": "25453",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "LM_6_path1_NCH10_B",
+  "SignalName_1": "LM_Abs",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d84cc1bf30c4f1b174"
+  },
+  "AxisName": "BTS",
+  "AxisNumber": "7",
+  "DisplayName": "LM",
+  "Dz_axisMasterId": "25454",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "LM_7_path1_NCH10_B",
+  "SignalName_1": "LM_Abs",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+},{
+  "_id": {
+    "$oid": "60d070d84cc1bf30c4f1b175"
+  },
+  "AxisName": "NONE",
+  "AxisNumber": "8",
+  "DisplayName": "LM",
+  "Dz_axisMasterId": "25455",
+  "L1Name": "NCH10_B",
+  "MaxAlarm": "20000",
+  "MaxWarning": "18000",
+  "MinWarning": "1",
+  "NotificationSendTo": "anirudha.kalita44@gmail.com",
+  "PathName": "path1",
+  "SignalName": "LM_8_path1_NCH10_B",
+  "SignalName_1": "LM_Abs",
+  "SystemAlarm": "No",
+  "Unit": "km",
+  "UnitValue": "2000"
+}]
